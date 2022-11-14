@@ -1,0 +1,96 @@
+
+.container{
+    background: #5E5E5E;
+    border-radius: .75em;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 20em;
+    height: 25em;
+    display: none;
+    border: 2px solid black;
+}
+
+.close-icon{
+    cursor: pointer;
+    top: 3%;
+    left: 90%;
+    position: relative;
+    text-align: end;
+    width: 1.55rem;
+}
+
+.modal-header{
+    text-align: center;
+}
+.login-icon{
+    background: #FED9B7;
+    border: 2px #242631 solid;
+    border-radius: .75em;
+    box-shadow: 0px 2px 5px;
+    padding: 0.5rem;
+    width: 2rem;
+}
+.modal-title,.content{
+    color: white;
+    margin: 0;
+}
+
+.modal-title{
+    font-size: 1em;
+    margin-top: 0.75em;
+}
+
+.content{
+    font-size: 0.75em;
+}
+
+form{
+    margin: 1em 1em;
+}
+
+label{
+    color: white;
+    font-size: 0.75em;
+}
+
+.email,.password{
+    border-radius: 0.4em;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+    margin: 0.2em 0 1.4em;
+    padding: 0.5em;
+    width: 22em;
+}
+
+
+
+button{
+    margin: 1em 1em;
+    border: none;
+    border-radius: 0.4em;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    display: block;
+    padding: 0.5em;
+    width: 22em;
+}
+
+.btn-confirm{
+    background-color: #6941C6;
+    color: white;
+    margin-bottom: 0.5em;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+
+.yeah-img{
+    width: 3em;
+}
+
