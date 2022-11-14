@@ -25,7 +25,7 @@ confirmBtn.addEventListener('click', function (event) {
     setTimeout(function() {
     document.querySelector('.modal-inner').innerHTML =
     `<h2> Thank for submited via email!Will be a pleasure be with you in that journey!<br>
-    <img class="yeah-img" src="yeah-img.png" alt="Hand gesturing Rock'n'Roll">`
+    <img class="yeah-img" src="/Images/yeah-img.png" alt="Hand gesturing Rock'n'Roll">`
     }, 800)
 
     setTimeout(function(){
