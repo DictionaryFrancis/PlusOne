@@ -7,7 +7,10 @@ Design and coding was made by myself.
 Using time and abilities that I have learned till now!
 <br>
 Any tips or advice contact me , don`t be shy 😁
+
+Also, here is the link:
+https://admirable-lokum-dee32f.netlify.app/#
 <br>
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/104435128/201737249-efa6fd76-715c-4d7a-8ac3-16afb8599194.png)
+[image](https://user-images.githubusercontent.com/104435128/201737249-efa6fd76-715c-4d7a-8ac3-16afb8599194.png)
