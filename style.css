@@ -92,7 +92,7 @@ main p{
 /*--- BUTTON---*/
 
 .main-btn{
-    margin-top: 2em;
+    margin: 2em 0;
     font-family: 'Poppins', sans-serif;
     display: flex;
     justify-content: space-between;
