@@ -85,8 +85,13 @@ main p{
     line-height: 1.9em;
 }
 
+aside{
+    display: flex;
+    justify-content: center;
+}
+
 .main-img{
-    width: 24em;
+    width: 27em;
 }
 
 /*--- BUTTON---*/
